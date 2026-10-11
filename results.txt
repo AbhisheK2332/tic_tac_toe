@@ -1,0 +1,2 @@
+AI goes first: 1000 games -> AI wins 993, draws 7, AI losses 0
+AI goes second: 1000 games -> AI wins 798, draws 202, AI losses 0
